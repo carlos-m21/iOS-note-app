@@ -1,0 +1,34 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "120",
+      "familyShareable" : false,
+      "internalID" : "E0758C48",
+      "localizations" : [
+        {
+          "description" : "",
+          "displayName" : "",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "",
+          "displayName" : "Pro Version",
+          "locale" : "ja"
+        }
+      ],
+      "productID" : "com.ios.audionote.premium",
+      "referenceName" : "Pro Version",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
